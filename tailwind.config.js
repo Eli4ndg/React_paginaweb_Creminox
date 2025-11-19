@@ -11,6 +11,7 @@ module.exports = {
   },
   darkMode: "class",
   plugins: [heroui()],
+<<<<<<< HEAD
 };
 
 module.exports = {
@@ -24,3 +25,6 @@ module.exports = {
   },
   plugins: [],
 };
+=======
+};
+>>>>>>> 7d8b124279c4fa3be3e6d8505bc037e75ae924dd
