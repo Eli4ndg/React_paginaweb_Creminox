@@ -12,7 +12,6 @@
     "@heroui/navbar": "^2.2.24",
     "@heroui/system": "^2.4.22",
     "@heroui/theme": "^2.4.22",
-<<<<<<< HEAD
     "axios": "^1.12.2",
     "framer-motion": "^12.23.24",
     "next": "15.5.4",
@@ -21,17 +20,10 @@
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "sweetalert2": "^11.26.3"
-=======
-    "framer-motion": "^12.23.21",
-    "next": "15.5.4",
-    "react": "19.1.0",
-    "react-dom": "19.1.0"
->>>>>>> 7d8b124279c4fa3be3e6d8505bc037e75ae924dd
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
-<<<<<<< HEAD
     "@types/nodemailer": "^7.0.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
@@ -52,11 +44,4 @@
     "url": "https://github.com/Eli4ndg/React_paginaweb_Creminox/issues"
   },
   "homepage": "https://github.com/Eli4ndg/React_paginaweb_Creminox#readme"
-=======
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "tailwindcss": "^4",
-    "typescript": "^5"
-  }
->>>>>>> 7d8b124279c4fa3be3e6d8505bc037e75ae924dd
 }
